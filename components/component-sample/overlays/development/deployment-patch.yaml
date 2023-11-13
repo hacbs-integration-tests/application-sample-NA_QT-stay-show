@@ -11,7 +11,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-appstudio/sample-image@sha256:9bf4f3f9a1e86d5600f47b2f8f6fccd9abddbf3a317ccc8bb300983cf5bcfac1
+      - image: quay.io/redhat-appstudio/sample-image@sha256:98f7c02fc24f9a66a39660ecae95bf0e84660e62281d98d660cb4517ad69c17b
         name: hacbs-jvm-build-test-project
         resources: {}
 status: {}
